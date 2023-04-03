@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Abhishekmishra-17
+- 👋 Hi, I’m <a href="https://github.com/Abhishekmishra-17">@Abhishekmishra-17</a>
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning Google Cloud, Machine Learning
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me <a href="mailto:mishraabhi8924@gmail.com">mishraabhi8924@gmail.com</a>
 
 <!---
 Abhishekmishra-17/Abhishekmishra-17 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -10,7 +10,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
-![Abhishek's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abhishekmishra-17&show_icons=true&theme=radical&count_private=true) <span>[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Abhishekmishra-17&theme=radical&date_format=j%20M%5B%20Y%5D&fire=FAFF7B)](https://git.io/streak-stats) </span>
+![Abhishek's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abhishekmishra-17&show_icons=true&theme=radical&count_private=true)
 
 <!--- <img src="https://github-readme-stats.vercel.app/api?username=Abhishekmishra-17&show_icons=true&theme=radical&count_private=true" width="400"> --->
 
