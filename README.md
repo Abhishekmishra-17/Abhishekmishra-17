@@ -8,7 +8,7 @@
 
 <hr>
 
-### Let's connect with:
+### Let's connect on:
 <a href="https://www.linkedin.com/in/abhishek-mishra-377055193/">
     <img height="50" src="https://cdn-icons-png.flaticon.com/512/2626/2626273.png"/>
 </a>
