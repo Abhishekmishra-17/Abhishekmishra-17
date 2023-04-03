@@ -10,6 +10,11 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
+<a href="https://www.youtube.com/channel/your-channel-id">
+  <img src="https://img.icons8.com/color/48/000000/youtube-play.png" alt="YouTube" style="vertical-align:middle; border: 2px solid lightskyblue;">
+</a>
+
+
 ![Abhishek's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abhishekmishra-17&show_icons=true&theme=radical&count_private=true)
 
 <!--- <img src="https://github-readme-stats.vercel.app/api?username=Abhishekmishra-17&show_icons=true&theme=radical&count_private=true" width="400"> --->
