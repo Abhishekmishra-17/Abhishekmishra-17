@@ -23,11 +23,11 @@
 
 ### Github Status: 
 
-![Abhishek's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abhishekmishra-17&show_icons=true&theme=radical&count_private=true)
+![Abhishek's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Abhishekmishra-17&show_icons=true&theme=radical&count_private=true)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Abhishekmishra-17&theme=radical&date_format=j%20M%5B%20Y%5D&fire=FAFF7B)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekmishra-17&theme=radical)](https://github.com/abihshekmishra-17/github-readme-stats)
+[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=abhishekmishra-17&theme=radical)](https://github.com/abihshekmishra-17/github-readme-stats)
 
 <!-- - ### SKyline
 ![Abhishek's Github Skylines](https://skyline.github.com/abhishekmishra-17/2022)
